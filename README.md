@@ -24,13 +24,13 @@ public class CreatingEmptyPdf {
    }  
 }
 
-2. Download libary pdfbox yang format jar
+<strong>2. Download libary pdfbox yang format jar</strong><br/>
 https://pdfbox.apache.org/download.html
 
-3. compile class java<br/>
+<strong>3. compile class java</strong><br/>
 javac -cp .;pdfbox-app-2.0.9.jar CreatingEmptyPdf.java
 
-4. Jalankan program<br/>
-java -cp .;pdfbox-app-2.0.9.jar CreatingEmptyPdf
+<strong>4. Jalankan program</strong><br/>
+java -cp .;pdfbox-app-2.0.9.jar CreatingEmptyPdf<br/><br/>
 
 note: hasil download dan file class java di tempatkan di path yang sama
